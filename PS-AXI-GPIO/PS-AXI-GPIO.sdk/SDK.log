@@ -1,0 +1,11 @@
+00:55:34 INFO  : Registering command handlers for SDK TCF services
+00:55:35 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\Jake\Engineering\ZYNQ\PS-AXI-GPIO\PS-AXI-GPIO.sdk\temp_xsdb_launch_script.tcl
+00:55:40 INFO  : XSCT server has started successfully.
+00:55:40 INFO  : Successfully done setting XSCT server connection channel  
+00:55:41 INFO  : Successfully done setting SDK workspace  
+00:55:41 INFO  : Processing command line option -hwspec C:/Users/Jake/Engineering/ZYNQ/PS-AXI-GPIO/PS-AXI-GPIO.sdk/design_1_wrapper.hdf.
+01:17:42 INFO  : Invoking Bootgen: bootgen -image ps-axi-gpio.bif -arch zynq -o C:\Users\Jake\Engineering\ZYNQ\PS-AXI-GPIO\PS-AXI-GPIO.sdk\ps-axi-gpio\bootimage\BOOT.bin
+01:17:42 INFO  : Creating new bif file C:\Users\Jake\Engineering\ZYNQ\PS-AXI-GPIO\PS-AXI-GPIO.sdk\ps-axi-gpio\bootimage\ps-axi-gpio.bif
+01:17:44 INFO  : Bootgen command execution is done.
+01:18:49 INFO  : Invoking Bootgen: bootgen -image ps-axi-gpio.bif -arch zynq -o C:\Users\Jake\Engineering\ZYNQ\PS-AXI-GPIO\PS-AXI-GPIO.sdk\ps-axi-gpio\bootimage\BOOT.bin -w on
+01:18:51 INFO  : Bootgen command execution is done.

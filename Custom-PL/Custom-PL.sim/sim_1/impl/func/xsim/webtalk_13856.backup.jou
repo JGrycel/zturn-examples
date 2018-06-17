@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Feb 23 21:36:50 2018
+# Process ID: 13856
+# Current directory: C:/Users/Jake/Engineering/ZYNQ/Custom-PL/Custom-PL.sim/sim_1/impl/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Jake/Engineering/ZYNQ/Custom-PL/Custom-PL.sim/sim_1/impl/func/xsim/xsim.dir/design_1_wrapper_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Jake/Engineering/ZYNQ/Custom-PL/Custom-PL.sim/sim_1/impl/func/xsim/webtalk.log
+# Journal file: C:/Users/Jake/Engineering/ZYNQ/Custom-PL/Custom-PL.sim/sim_1/impl/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Jake/Engineering/ZYNQ/Custom-PL/Custom-PL.sim/sim_1/impl/func/xsim/xsim.dir/design_1_wrapper_func_impl/webtalk/xsim_webtalk.tcl -notrace

@@ -1,0 +1,9 @@
+01:51:25 INFO  : Registering command handlers for SDK TCF services
+01:51:26 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\Jake\Engineering\ZYNQ\PL-Interrupts\PL-Interrupts.sdk\temp_xsdb_launch_script.tcl
+01:51:29 INFO  : XSCT server has started successfully.
+01:51:30 INFO  : Successfully done setting XSCT server connection channel  
+01:51:30 INFO  : Successfully done setting SDK workspace  
+01:51:30 INFO  : Processing command line option -hwspec C:/Users/Jake/Engineering/ZYNQ/PL-Interrupts/PL-Interrupts.sdk/design_1_wrapper.hdf.
+02:19:15 INFO  : Invoking Bootgen: bootgen -image pl-interrupt.bif -arch zynq -o C:\Users\Jake\Engineering\ZYNQ\PL-Interrupts\PL-Interrupts.sdk\pl-interrupt\bootimage\BOOT.bin
+02:19:15 INFO  : Creating new bif file C:\Users\Jake\Engineering\ZYNQ\PL-Interrupts\PL-Interrupts.sdk\pl-interrupt\bootimage\pl-interrupt.bif
+02:19:17 INFO  : Bootgen command execution is done.

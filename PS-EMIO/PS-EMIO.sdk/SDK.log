@@ -1,0 +1,13 @@
+23:44:28 INFO  : Registering command handlers for SDK TCF services
+23:44:30 INFO  : Launching XSCT server: xsct.bat -interactive C:\Users\Jake\Engineering\ZYNQ\PS-EMIO\PS-EMIO.sdk\temp_xsdb_launch_script.tcl
+23:44:34 INFO  : XSCT server has started successfully.
+23:44:34 INFO  : Successfully done setting XSCT server connection channel  
+23:44:35 INFO  : Successfully done setting SDK workspace  
+23:44:35 INFO  : Processing command line option -hwspec C:/Users/Jake/Engineering/ZYNQ/PS-EMIO/PS-EMIO.sdk/design_1_wrapper.hdf.
+23:48:18 INFO  : Invoking Bootgen: bootgen -image ps-emio.bif -arch zynq -o C:\Users\Jake\Engineering\ZYNQ\PS-EMIO\PS-EMIO.sdk\ps-emio\bootimage\BOOT.bin
+23:48:18 INFO  : Creating new bif file C:\Users\Jake\Engineering\ZYNQ\PS-EMIO\PS-EMIO.sdk\ps-emio\bootimage\ps-emio.bif
+23:48:20 INFO  : Bootgen command execution is done.
+00:03:29 INFO  : Invoking Bootgen: bootgen -image ps-emio.bif -arch zynq -o C:\Users\Jake\Engineering\ZYNQ\PS-EMIO\PS-EMIO.sdk\ps-emio\bootimage\BOOT.bin -w on
+00:03:31 INFO  : Bootgen command execution is done.
+00:04:38 INFO  : Invoking Bootgen: bootgen -image ps-emio.bif -arch zynq -o C:\Users\Jake\Engineering\ZYNQ\PS-EMIO\PS-EMIO.sdk\ps-emio\bootimage\BOOT.bin -w on
+00:04:40 INFO  : Bootgen command execution is done.

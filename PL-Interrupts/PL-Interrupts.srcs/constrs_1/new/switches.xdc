@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN R19 [get_ports {SW1[0]}]
+set_property PACKAGE_PIN T19 [get_ports {SW2[0]}]
+set_property PACKAGE_PIN G14 [get_ports {SW3[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {SW1[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {SW2[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {SW3[0]}]

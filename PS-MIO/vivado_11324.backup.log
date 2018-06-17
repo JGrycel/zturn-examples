@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Feb 19 01:04:22 2018
+# Process ID: 11324
+# Current directory: C:/Users/Jake/Engineering/ZYNQ/PS-MIO
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16008 C:\Users\Jake\Engineering\ZYNQ\PS-MIO\PS-MIO.xpr
+# Log file: C:/Users/Jake/Engineering/ZYNQ/PS-MIO/vivado.log
+# Journal file: C:/Users/Jake/Engineering/ZYNQ/PS-MIO\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Jake/Engineering/ZYNQ/PS-MIO/PS-MIO.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:09 . Memory (MB): peak = 779.766 ; gain = 100.664
+update_compile_order -fileset sources_1
+INFO: [Vivado 12-4158] Exported Hardware file is out of date. Exported hardware information may be inconsistent with respect to the current state of the design. It is recommended that you re-export the design and launch SDK otherwise SDK is launched with out of date hardware system file.
+launch_sdk -workspace C:/Users/Jake/Engineering/ZYNQ/PS-MIO/PS-MIO.sdk -hwspec C:/Users/Jake/Engineering/ZYNQ/PS-MIO/PS-MIO.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace C:/Users/Jake/Engineering/ZYNQ/PS-MIO/PS-MIO.sdk -hwspec C:/Users/Jake/Engineering/ZYNQ/PS-MIO/PS-MIO.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Feb 19 01:40:23 2018...

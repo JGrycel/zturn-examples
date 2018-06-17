@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\Jake\Engineering\ZYNQ\Custom-PL\Custom-PL.sdk\fsbl\Debug\fsbl.elf
+	C:\Users\Jake\Engineering\ZYNQ\Custom-PL\Custom-PL.sdk\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	C:\Users\Jake\Engineering\ZYNQ\Custom-PL\Custom-PL.sdk\custom-pl\Debug\custom-pl.elf
+}

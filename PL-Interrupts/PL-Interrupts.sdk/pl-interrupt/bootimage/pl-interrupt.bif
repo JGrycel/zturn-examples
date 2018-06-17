@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\Jake\Engineering\ZYNQ\PL-Interrupts\PL-Interrupts.sdk\fsbl\Debug\fsbl.elf
+	C:\Users\Jake\Engineering\ZYNQ\PL-Interrupts\PL-Interrupts.sdk\design_1_wrapper_hw_platform_0\design_1_wrapper.bit
+	C:\Users\Jake\Engineering\ZYNQ\PL-Interrupts\PL-Interrupts.sdk\pl-interrupt\Debug\pl-interrupt.elf
+}

@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/Jake/Engineering/ZYNQ/Custom-PL/Custom-PL.srcs/constrs_1/new/rgb.xdc rfile:../../../Custom-PL.srcs/constrs_1/new/rgb.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN Y16 [get_ports {rgb_out_0[2]}]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN Y17 [get_ports {rgb_out_0[1]}]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN R14 [get_ports {rgb_out_0[0]}]

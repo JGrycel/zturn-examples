@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER JG_ZYNQ_RGB_CORE
+	OPTION supported_peripherals = (JG_ZYNQ_RGB_CORE);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = JG_ZYNQ_RGB_CORE;
+END DRIVER

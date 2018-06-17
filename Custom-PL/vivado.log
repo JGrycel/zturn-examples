@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat Mar  3 01:29:33 2018
+# Process ID: 8732
+# Current directory: C:/Users/Jake/Engineering/ZYNQ/Custom-PL
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9780 C:\Users\Jake\Engineering\ZYNQ\Custom-PL\Custom-PL.xpr
+# Log file: C:/Users/Jake/Engineering/ZYNQ/Custom-PL/vivado.log
+# Journal file: C:/Users/Jake/Engineering/ZYNQ/Custom-PL\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Jake/Engineering/ZYNQ/Custom-PL/Custom-PL.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/Jake/Engineering/Xilinx-IP'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:09 . Memory (MB): peak = 789.527 ; gain = 113.328
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Mar  3 01:30:39 2018...
